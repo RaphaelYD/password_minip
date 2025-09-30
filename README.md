@@ -65,14 +65,14 @@ python auth_sqlite.py
     Example entries:
       - 2025-09-30 16:00:12 INFO REGISTER success username=alice
       - 2025-09-30 16:01:45 WARNING LOGIN failed username=alice attempts=1
-      - 2025-09-30 16:02:30 INFO LOGIN success username=alice
+      - 2025-09-30 16:02:30 INFO LOGIN success username=alice.
 
 ---
 
 ## Contributing
 
     Pull requests are welcome! For major changes, open an issue first to discuss what you would like to change.
-    📜 License
+     License
       MIT License
 
 
