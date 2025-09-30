@@ -1,0 +1,7 @@
+2025-09-30 15:55:52,765 | INFO | REGISTER success username=pablo escobar
+2025-09-30 15:57:09,852 | INFO | REGISTER success username=noemie
+2025-09-30 15:57:18,757 | WARNING | LOGIN failed username=noemie attempts=1
+2025-09-30 15:57:19,667 | WARNING | LOGIN failed username=noemie attempts=2
+2025-09-30 15:57:21,262 | WARNING | LOCKOUT applied username=noemie duration=30s cycles=1
+2025-09-30 15:57:28,265 | INFO | LOGIN denied_locked username=noemie remaining=23s cycles=1
+2025-09-30 15:57:40,820 | INFO | LOGIN success username=kakou

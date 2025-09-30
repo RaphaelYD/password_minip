@@ -1,0 +1,26 @@
+{
+  "Kakou": {
+    "password_hash": "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+    "attempts": 0,
+    "lockout_until": 0,
+    "lockout_cycles": 0
+  },
+  "kakou": {
+    "password_hash": "$2b$12$B3jJkeqCp8F0Bo8bijCGce5eteSdguZBlQVX8Qlfjdf6/vyM7Ku1u",
+    "attempts": 0,
+    "lockout_until": 0,
+    "lockout_cycles": 0
+  },
+  "raphael": {
+    "password_hash": "$2b$12$RvCFWrZyUNhxwye3jtADB.QPd/uPuHjSJFBPb.u.mc65bJOj8e8u.",
+    "attempts": 0,
+    "lockout_until": 0,
+    "lockout_cycles": 0
+  },
+  "partouche": {
+    "password_hash": "$2b$12$fW/hNFpDgPs5LoTTvhxrAO55mJpI5FHZr0Y27KuNcnt0knP4IViN.",
+    "attempts": 0,
+    "lockout_until": 0,
+    "lockout_cycles": 0
+  }
+}
