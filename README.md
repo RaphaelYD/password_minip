@@ -20,7 +20,7 @@ Secure password authentication system built in **Python** with:
 ##  Installation
 
 Clone the repository:
-```bash 
+'''bash 
 git clone https://github.com/RaphaelYD/password_minip.git
 cd password_minip
 
@@ -37,11 +37,12 @@ pip install -r requirements.txt
 ##  Usage
 
 Start the authentication CLI:
-```bash
+'''bash
 python auth_sqlite.py
 
-##  Options
+---
 
+##  Options
 
 register → Create a new account
 login → Login with username and password
@@ -49,18 +50,27 @@ inspect → View stored users (debug/admin only)
 delete → Remove a user
 exit → Quit the program
 
- Running Tests
+---
+
+## Running Tests
+
   Run all unit tests:
     pytest -v
 
- Logging
+---
+
+## Logging
+
   All events are logged into auth.log.
     Example entries:
       2025-09-30 16:00:12 INFO REGISTER success username=alice
       2025-09-30 16:01:45 WARNING LOGIN failed username=alice attempts=1
       2025-09-30 16:02:30 INFO LOGIN success username=alice
 
- Contributing
+---
+
+## Contributing
+
     Pull requests are welcome! For major changes, open an issue first to discuss what you would like to change.
     📜 License
       MIT License
