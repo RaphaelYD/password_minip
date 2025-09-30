@@ -1,2 +1,2 @@
-bcrpt
+bcrypt
 pytest
