@@ -1,4 +1,7 @@
 ## password_minip
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 Secure password authentication system built in **Python** with:
 - **SQLite** (for persistent user storage)
 - **bcrypt** (for secure password hashing)
