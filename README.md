@@ -34,17 +34,20 @@ pip install -r requirements.txt
 
 ---
 
-## Usage
+##  Usage
 
-  Start the authentication CLI:
-    python auth_sqlite.py
+Start the authentication CLI:
+```bash
+python auth_sqlite.py
 
-Options:
-  register → Create a new account
-  login → Login with username and password
-  inspect → View stored users (debug/admin only)
-  delete → Remove a user
-  exit → Quit the program
+##  Options
+
+
+register → Create a new account
+login → Login with username and password
+inspect → View stored users (debug/admin only)
+delete → Remove a user
+exit → Quit the program
 
  Running Tests
   Run all unit tests:
