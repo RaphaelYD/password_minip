@@ -56,6 +56,18 @@ python auth_sqlite.py
 
 ---
 
+## Tests
+
+  What is tested?  
+  
+    User creation and login flow  
+    Wrong password attempts and error handling  
+    Account lockout after too many failed attempts  
+    User reset functionality  
+    Password strength evaluation (very weak → strong)  
+
+---
+
 ## Running Tests
 
   Run all unit tests:
