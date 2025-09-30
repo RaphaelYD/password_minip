@@ -63,9 +63,9 @@ python auth_sqlite.py
 
   All events are logged into auth.log.
     Example entries:
-      2025-09-30 16:00:12 INFO REGISTER success username=alice
-      2025-09-30 16:01:45 WARNING LOGIN failed username=alice attempts=1
-      2025-09-30 16:02:30 INFO LOGIN success username=alice
+      - 2025-09-30 16:00:12 INFO REGISTER success username=alice
+      - 2025-09-30 16:01:45 WARNING LOGIN failed username=alice attempts=1
+      - 2025-09-30 16:02:30 INFO LOGIN success username=alice
 
 ---
 
