@@ -44,11 +44,11 @@ python auth_sqlite.py
 
 ##  Options
 
--register → Create a new account
--login → Login with username and password
--inspect → View stored users (debug/admin only)
--delete → Remove a user
--exit → Quit the program
+- register → Create a new account
+- login → Login with username and password
+- inspect → View stored users (debug/admin only)
+- delete → Remove a user
+- exit → Quit the program
 
 ---
 
